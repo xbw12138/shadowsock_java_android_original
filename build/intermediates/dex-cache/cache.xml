@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-minimal/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cb9bbd4a4737c5d1720f03efe7de98df3a924ef1">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/com.embarkmobile-zxing-android-minimal-2.0.0_72a64927f4d6167dd8dd19a0f7b2826691a08a95.jar" />
+    </item>
+    <item
+        jar="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/exploded-aar/com.embarkmobile/zxing-android-integration/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32c0545546faa0e65a67bba8abc072b1aef5b136">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/com.embarkmobile-zxing-android-integration-2.0.0_d8c81c1f16e0bd0e7f5c35bd1240e8ba28c8fbaf.jar" />
+    </item>
+    <item
+        jar="/Users/xubowen/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.0.1/9ebf6cd580d67601fbf88fd007aab4703b19e4c2/core-3.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9ebf6cd580d67601fbf88fd007aab4703b19e4c2">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/core-3.0.1_249b502ba72d33176d94ca6f54aca909c26913ca.jar" />
+    </item>
+    <item
+        jar="/Users/xubowen/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c9ad4a0850ab676c5c64461a05ca524cdfff59f1">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/json-simple-1.1.1_54ef2d4b948e1acf3e3f5e685babddfa7bc8a791.jar" />
+    </item>
+    <item
+        jar="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="442d36ed3ef77b8a7e708d6df1e77d0b0404cc5e">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_371b71ce1f37aa4f84b1e9c4f83ca24558ed9412.jar" />
+    </item>
+    <item
+        jar="/Users/xubowen/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.52/88a941faf9819d371e3174b5ed56a3f3f7d73269/bcprov-jdk15on-1.52.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88a941faf9819d371e3174b5ed56a3f3f7d73269">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/bcprov-jdk15on-1.52_9765e6b03dfd4d4971de3a81929f06612abb65c8.jar" />
+    </item>
+    <item
+        jar="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="933122814fa4c777db8a14d2f53f2e5a1715cf2a">
+        <dex dex="/Users/xubowen/Downloads/shadowsocks-android-java-master/app/build/intermediates/pre-dexed/debug/instant-run_fca09466686709d139a9005e9c1ca2cdbf4827b9.jar" />
+    </item>
+
+</items>
